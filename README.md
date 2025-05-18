@@ -1,4 +1,4 @@
-An Express app to practice and implement different libraries as reusable modules.
+An Express app where I practice and implement different libraries as reusable modules.
 
 Modules implemented:
 
